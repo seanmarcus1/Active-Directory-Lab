@@ -88,7 +88,7 @@ Successfully signed in to CLIENT01 as 'Jake Carter':
 
 ## Group Policy Configuration
 
-Now that we have a working Active Directory environment with organizational units and domain users, it's time to introduce Group Policy management to enforce security controls and simulate real-world configurations. 
+Now that we have a working Active Directory environment with organizational units and domain users, it's time to introduce Group Policies to enforce security controls and simulate real-world configurations. 
 
 ### Login Banner
 - Created group policy object (GPO): 'Login Banner Policy'
